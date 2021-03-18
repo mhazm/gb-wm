@@ -8,7 +8,7 @@ body {
 
 body::before {
   content: "";
-  background: url(img/wmlogo.png);
+  background: url(./img/wmlogo.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
